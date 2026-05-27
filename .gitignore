@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Modelo treinado (pesado — não sobe pro GitHub)
+runs/
+
+# Imagens do dataset (baixe pelo link no README)
+DATASET-COVID-MASK/Full_Dataset/
+DATASET-COVID-MASK/Training/images/
+DATASET-COVID-MASK/Validation/images/
+
+# Resultados gerados automaticamente
+resultados_serial.csv
+resultados_paralelo.csv
+tempos_paralelos.csv
+tempo_serial.txt
+
+# IDEs
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
