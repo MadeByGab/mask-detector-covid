@@ -14,7 +14,7 @@ O dataset contém imagens anotadas no formato **YOLO**, com três categorias de 
 | 😷 Classes | 3 (mask, no_mask, mask_not_in_position) |
 | 📐 Formato das anotações | YOLO (arquivos `.txt` com bounding boxes normalizados) |
 | 📁 Formato das imagens | JPEG / PNG |
-| 🔗 Fonte | [Hugging Face — Dataset](https://huggingface.co/datasets/...) |
+| 🔗 Fonte | [Covid Face-Mask Monitoring Dataset](https://www.kaggle.com/datasets/jishan900/covid-facemask-monitoring-dataset) |
 
 ### Classes detectadas
 
