@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Dataset
 
-Este projeto utiliza o **Face Mask Detection Dataset**, um conjunto de dados para classificação do uso correto de máscara facial, composto por imagens de pessoas em ambientes públicos capturadas durante o período da pandemia de COVID-19.
+Este projeto utiliza o **Face Mask Detection Dataset**, de tamanho total de 3.51GB. Um conjunto de dados para classificação do uso correto de máscara facial, composto por imagens de pessoas em ambientes públicos capturadas durante o período da pandemia de COVID-19.
 
 O dataset contém imagens anotadas no formato **YOLO**, com três categorias de uso de máscara, permitindo identificar não apenas a ausência da máscara, mas também o uso incorreto (abaixo do nariz, no queixo etc.).
 
