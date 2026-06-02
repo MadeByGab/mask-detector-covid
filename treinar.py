@@ -19,9 +19,9 @@ from ultralytics import YOLO
 # ──────────────────────────────────────────────────────────────────────────────
 DATA_YAML   = "DATASET-COVID-MASK/data.yaml"  # usa o data.yaml do próprio dataset
 MODELO_BASE = "yolov8n.pt"   # nano = mais rápido; yolov8s.pt = mais preciso
-EPOCHS      = 10
-IMG_SIZE    = 320
-BATCH       = 8              # reduza para 4 se der erro de memória (Out of Memory)
+EPOCHS      = 50
+IMG_SIZE    = 416
+BATCH       = 8             # reduza para 4 se der erro de memória (Out of Memory)
 PROJECT     = r"S:\Projeto_concorrente_distribuido\runs\detect"
 NOME        = "mask_detector"
 # ──────────────────────────────────────────────────────────────────────────────

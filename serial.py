@@ -26,7 +26,7 @@ from ultralytics import YOLO
 # CONFIGURAÇÕES — ajuste aqui conforme necessário
 # ──────────────────────────────────────────────────────────────────────────────
 DATASET_DIR   = "DATASET-COVID-MASK"          # pasta raiz do dataset
-MODELO_PATH   = r"C:\Users\Álex AlmSan\runs\detect\runs\detect\mask_detector\weights\best.pt"  # modelo treinado
+MODELO_PATH   = r"S:\Projeto_concorrente_distribuido\runs\detect\mask_detector\weights\best.pt"  # modelo treinado
 CONFIANCA     = 0.4                           # limiar mínimo de confiança
 SAIDA_CSV     = "resultados_serial.csv"
 SAIDA_TEMPO   = "tempo_serial.txt"
