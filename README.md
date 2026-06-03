@@ -1,4 +1,4 @@
-<img width="539" height="645" alt="image" src="https://github.com/user-attachments/assets/eaaff7e9-d5bd-44d1-9a01-15295722d20b" /># 😷 Projeto Programação CD — Detecção de Máscara COVID-19
+# 😷 Projeto Programação CD — Detecção de Máscara COVID-19
 
 ## 📋 Sobre o Dataset
 
