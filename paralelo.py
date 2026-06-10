@@ -31,8 +31,8 @@ from ultralytics import YOLO
 # ──────────────────────────────────────────────────────────────────────────────
 # CONFIGURAÇÕES — ajuste aqui conforme necessário
 # ──────────────────────────────────────────────────────────────────────────────
-DATASET_DIR     = "DATASET-COVID-MASK"
-MODELO_PATH     = r"S:\Projeto_concorrente_distribuido\runs\detect\mask_detector\weights\best.pt"
+DATASET_DIR  = "C:\\Users\\gabri\\Downloads\\mask-detector-covid-main"
+MODELO_PATH  = "runs/detect/runs/detect/mask_detector/weights/best.pt"
 CONFIANCA       = 0.4
 SAIDA_CSV       = "resultados_paralelo.csv"
 SAIDA_TEMPOS    = "tempos_paralelos.csv"
